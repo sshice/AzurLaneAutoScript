@@ -14,7 +14,7 @@ from module.exception import *
 from module.logger import logger
 from module.notify import handle_notify
 
-
+# test2411210014
 class AzurLaneAutoScript:
     stop_event: threading.Event = None
 
